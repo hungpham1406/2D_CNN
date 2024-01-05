@@ -3,7 +3,7 @@
 # REMEMBER TO CHANGE DIRECTORY PATH IN ALL SOURCE CODE FILE TO YOUR DESIRED DIRECTORY PATH
 
 # Folder "Source_Code_Verilog
-- The file "read_txt2.v" is the top module in verilog's design sources
+- The file "read_txt2.v" is the TOP module in verilog's design sources
 - "read_txt2_tb.v" is the test bench file using for simulation
 - "grayscale_input2" is the input file generated from grayscale image
 - "Arty-Z7-20-Master.xdc" is the constraint file used to config I/O ports for the board Arty-Z7-20 when you want to upload the code.
